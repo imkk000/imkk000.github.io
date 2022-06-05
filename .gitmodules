@@ -1,0 +1,3 @@
+[submodule "web-keyboard-typing-practice"]
+	path = web-keyboard-typing-practice
+	url = https://github.com/nattakit-boonyang/web-keyboard-typing-practice.git
