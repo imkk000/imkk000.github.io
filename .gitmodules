@@ -1,3 +1,6 @@
 [submodule "keyboard-typing-practice"]
 	path = keyboard-typing-practice
-	url = https://github.com/nattakit-boonyang/web-keyboard-typing-practice.git
+	url = https://github.com/imkk000/web-keyboard-typing-practice.git
+[submodule "typingfast"]
+	path = typingfast
+	url = https://github.com/ndaidong/typingfast.git
